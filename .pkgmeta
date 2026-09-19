@@ -1,0 +1,9 @@
+package-as: ScrollingQuestText
+
+move-folders:
+  ScrollingQuestText/ScrollingQuestText: ScrollingQuestText
+
+ignore:
+  - Makefile
+  - README.md
+

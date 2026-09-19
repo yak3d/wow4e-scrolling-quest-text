@@ -6,6 +6,7 @@
 ## LoadSavedVariablesFirst: 1
 ## SavedVariables: ForeverSQTDB
 ## IconTexture: Interface\Icons\Inv_misc_notescript1b
+## X-Curse-Project-ID: 1702027
 
 Settings.lua
 Sound.lua

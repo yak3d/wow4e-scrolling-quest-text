@@ -1,4 +1,4 @@
-ADDON_NAME := ForeverSQT
+ADDON_NAME := ScrollingQuestText
 FLAVOR ?= _classic_beta_
 SRC_DIR := $(CURDIR)/ScrollingQuestText
 
