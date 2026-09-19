@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: Scrolling Quest Text
+## Version: 1.0
+## Author: Yak
+## Notes: Restores the Classic scrolling quest text and pen writing audio.
+## LoadSavedVariablesFirst: 1
+## SavedVariables: ForeverSQTDB
+## IconTexture: Interface\Icons\Inv_misc_notescript1b
+
+Settings.lua
+Sound.lua
+Fade.lua
+ForeverSQT.lua
+
