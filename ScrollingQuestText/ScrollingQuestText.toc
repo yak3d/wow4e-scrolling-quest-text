@@ -1,6 +1,6 @@
 ## Interface: 16001
 ## Title: Scrolling Quest Text
-## Version: 1.0
+## Version: @project-version@
 ## Author: Yak
 ## Notes: Restores the Classic scrolling quest text and pen writing audio.
 ## LoadSavedVariablesFirst: 1
