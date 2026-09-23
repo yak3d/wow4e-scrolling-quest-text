@@ -61,7 +61,7 @@ end)
 local function StartWriting()
   if not (QuestFrame and QuestFrame:IsShown()) then return end
 
-  QuestInfoFrame.acceptButton:Disable()
+  -- QuestInfoFrame.acceptButton:Disable()
 
   local text = questText:GetText()
 

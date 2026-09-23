@@ -9,7 +9,7 @@ function Sound.Start()
   if ticker then return end
 
   ticker = C_Timer.NewTicker(INTERVAL, function()
-    PlaySound(3093)
+    PlaySound(3093, "Dialog")
   end)
 end
 
